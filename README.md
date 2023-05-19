@@ -31,8 +31,8 @@ Here are some ideas to get you started:
     
 ### ⚡ Stats
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrimm&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrimm&layout=compact&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rrimm&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rrimm&layout=compact&theme=buefy)
   
   
   
